@@ -21,6 +21,10 @@ body{
   overflow-x: hidden;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 main{
   flex: 1;
 }
